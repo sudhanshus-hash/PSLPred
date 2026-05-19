@@ -14,7 +14,7 @@ Bhasin, M., Garg, A., and Raghava, G. P. S. PSLpred: prediction of subcellular l
 
 https://doi.org/10.1093/bioinformatics/bti309
 
-his tool and dataset is also available on Zenodo at 
+his tool and dataset is also available on Zenodo at https://doi.org/10.5281/zenodo.20291158
 
 
 
